@@ -2,6 +2,8 @@
 
 Script python qui permet de télécharger les clips twitch d'un streamer
 
+Python script that allows to download twitch clips from a streamer
+
 Kick : https://www.kick.com/mraurontv     
 Twitch : https://www.twitch.tv/mraurontv    
 Youtube : https://www.youtube.com/user/mraurontv    
